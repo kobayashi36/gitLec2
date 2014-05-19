@@ -1,2 +1,3 @@
 name:ritane
 age:200
+school:aaa
